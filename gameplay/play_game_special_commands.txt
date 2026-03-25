@@ -1,0 +1,57 @@
+Welcome to Memory Mash.
+Please enter a game size between 1 to 9: 4
+  1  2  3  4 
+ +-++-++-++-+
+1|X||X||X||X|
+ +-++-++-++-+
+2|X||X||X||X|
+ +-++-++-++-+
+3|X||X||X||X|
+ +-++-++-++-+
+4|X||X||X||X|
+ +-++-++-++-+
+Please enter command: h
+
+- h/H: Display Help Message
+- q/Q: Quit Current Game
+- [R1],[C1] [R2],[C2] ... [RN],[CN]: Flip cards at given coordinates. 
+        [RX] is row of card X, [CX] is column of card X. N is number of sets.
+
+  1  2  3  4 
+ +-++-++-++-+
+1|X||X||X||X|
+ +-++-++-++-+
+2|X||X||X||X|
+ +-++-++-++-+
+3|X||X||X||X|
+ +-++-++-++-+
+4|X||X||X||X|
+ +-++-++-++-+
+Please enter command: H
+
+- h/H: Display Help Message
+- q/Q: Quit Current Game
+- [R1],[C1] [R2],[C2] ... [RN],[CN]: Flip cards at given coordinates. 
+        [RX] is row of card X, [CX] is column of card X. N is number of sets.
+
+  1  2  3  4 
+ +-++-++-++-+
+1|X||X||X||X|
+ +-++-++-++-+
+2|X||X||X||X|
+ +-++-++-++-+
+3|X||X||X||X|
+ +-++-++-++-+
+4|X||X||X||X|
+ +-++-++-++-+
+Please enter command: Help
+Invalid Command! Enter h for command format.
+Please enter command: Quit
+Invalid Command! Enter h for command format.
+Please enter command: Exit
+Invalid Command! Enter h for command format.
+Please enter command:      h
+Invalid Command! Enter h for command format.
+Please enter command:      q
+Invalid Command! Enter h for command format.
+Please enter command: Q 
